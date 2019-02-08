@@ -1,4 +1,6 @@
-Dataset - https://datamarket.com/data/set/235k/daily-total-female-births-in-california-1959
+Dataset - https://drive.google.com/file/d/1qgv7XmQdH3l2-IuMQ3mgc9dgs6wJrscY/view?usp=sharing
+
+For more details - https://link.medium.com/8zMSqFI16T
 
 
 ARIMA
